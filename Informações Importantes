@@ -1,6 +1,6 @@
  Informações Importantes da Horta Inteligente com Energia Solar
 
-1 -  Sempre ligar primeiro o fio da bateria no controlador de carga(azulzinho), nunca ligar primeiro a placa solar
+1 -  Sempre ligar primeiro o fio da bateria no controlador de carga(azulzinho), nunca ligar primeiro o fio da placa solar no controlador de carga. sempre depois da bateria.
 
 2 - Na válvula de agua a entrada da água é do lado esquerdo que tem uma base quadrada,  e tem uma seta pequena demonstrando a direção.
 
@@ -9,6 +9,8 @@
 4 - A bateria é a parte mais perigosa do projeto, por isso sempre ter cuidado para manusear a bateria e verificar se ela está carregando. Caso ela se descarregar e não carregar mais levar para trocar a bateria por uma do mesmo modelo VRLA 12 A estacionária
 
 5. Qualquer bateria tem o risco de explosão por isso sempre ter atenção nesse componente do sistema. 
+
+6 - Caso o arduino travar é só tirar e desconectar e conectar o cabo USB no controlador de carga (azulzinho) 
 
 
 A bateria usada no sistema é uma Moura VRLA de 12 A estácionária 
